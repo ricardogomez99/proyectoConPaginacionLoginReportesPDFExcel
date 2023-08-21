@@ -13,7 +13,7 @@ La contraseña tanto del usuario admin y ricardo es: 12345
 
 ![image](https://github.com/ricardogomez99/proyectoConPaginacionLoginReportesPDFExcel/assets/92341478/7020eca7-f93f-491d-b2f6-ca29db7fb102)
 
-![Uploading image.png…]()
+
 
 
 
